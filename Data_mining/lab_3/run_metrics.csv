@@ -1,0 +1,3 @@
+run_id,records_fetched,new_records,saved_records,posts,users,comment_pages,requests,duplicates_before,duration_s
+52e7e7c8180d,340,0,340,251,208,4,10,0,17.399
+db89e03adc21,340,0,340,251,208,4,10,0,5.975

@@ -1,0 +1,21 @@
+field,completeness_pct,dtype
+comment_id,100.0,Int64
+comment_text,100.0,object
+post_id,100.0,Int64
+comment_likes,100.0,Int64
+commenter_id,100.0,Int64
+post_title,100.0,object
+post_author_id,100.0,Int64
+post_likes,100.0,Int64
+post_dislikes,100.0,Int64
+post_views,100.0,Int64
+commenter_first_name,100.0,object
+commenter_last_name,100.0,object
+commenter_username,100.0,object
+commenter_age,100.0,Int64
+commenter_birth_date,100.0,"datetime64[ns, UTC]"
+post_author_first_name,100.0,object
+post_author_last_name,100.0,object
+post_author_username,100.0,object
+post_author_age,100.0,Int64
+post_author_birth_date,100.0,"datetime64[ns, UTC]"

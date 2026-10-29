@@ -1,0 +1,5 @@
+field,lower,upper,outliers
+comment_likes,-7.0,17.0,0
+post_likes,-912.0,2116.0,0
+post_dislikes,-28.0,76.0,0
+post_views,-2546.75,7331.25,0
